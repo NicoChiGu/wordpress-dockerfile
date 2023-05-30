@@ -1,1 +1,1 @@
-FORM wordpress:php7.4
+FROM wordpress:php7.4
